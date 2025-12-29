@@ -1,0 +1,6 @@
+{
+  "registry_version": "1.0.0",
+  "models_file": "models.json",
+  "updated_at": "2025-01-01",
+  "notes": "Initial release of Tier-2 token-based emissions registry"
+}
