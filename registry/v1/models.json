@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "models": [
+    {
+      "provider": "openai",
+      "model_id": "gpt-4.1",
+      "aliases": ["gpt-4.1", "gpt-4.1-mini"],
+      "energy": {
+        "joules_per_token_input": 0.002,
+        "joules_per_token_output": 0.004,
+        "overhead_joules_per_request": 1.5
+      },
+      "sources": [
+        "peer-reviewed-estimates",
+        "provider-disclosures"
+      ],
+      "effective_date": "2025-01-01"
+    }
+  ]
+}
